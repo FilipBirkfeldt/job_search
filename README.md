@@ -1,5 +1,5 @@
 # job_search
-our_portfolia
+our_portfolio
 
 # my portfolio kind of 
-this is is 
+this is it is it 
